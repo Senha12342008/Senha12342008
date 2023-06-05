@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Christian_tis_
-- 👀 I’m interested in criar meu proprio projeto
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá eu sou @Christian_tis_
+- 👀 estou interessado em criar meu proprio projeto
+- 🌱 No momento estou aprendendo JavaScript ...
 
-<!---
-Senha12342008/Senha12342008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media.tenor.com/pxHwzx1GYvwAAAAM/nml%C3%B11.gif)
